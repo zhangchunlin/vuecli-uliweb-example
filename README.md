@@ -1,5 +1,26 @@
 # vuecli-uliweb-example
 
+## Steps to init this project
+
+Install [Vue Cli 3](https://cli.vuejs.org/zh/)
+
+```
+npm install -g @vue/cli
+```
+
+Create vue project
+
+```
+vue create vuecli-uliweb-example
+```
+
+Create back-end project
+
+```
+cd vuecli-uliweb-example
+uliweb makeproject backend
+```
+
 ## Directory structure
 
 ```
